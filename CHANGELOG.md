@@ -10,4 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Switched Builder to use yarn for installing packages
 
-## [Forked 470fbcaad02dee3fa22324c65a02ad47d117651b] - 2021-12-23
+## Forked [Forked 470fbcaa](https://github.com/fission/environments/commit/470fbcaad02dee3fa22324c65a02ad47d117651b) - 2021-12-23
